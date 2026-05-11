@@ -1,0 +1,74 @@
+{
+  "Navigation": {
+    "home": "Početna",
+    "villas": "Vile",
+    "dashboard": "Kontrolna tabla",
+    "profile": "Profil",
+    "signIn": "Prijavi se",
+    "signOut": "Odjavi se"
+  },
+  "Auth": {
+    "signInTitle": "Prijavite se",
+    "signInDescription": "Izaberite način prijave",
+    "continueWithGoogle": "Nastavite sa Google-om",
+    "continueWithApple": "Nastavite sa Apple-om",
+    "emailLabel": "Email",
+    "passwordLabel": "Lozinka",
+    "signInButton": "Prijava",
+    "noAccount": "Nemate nalog?",
+    "signUp": "Registrujte se"
+  },
+  "RoleSelection": {
+    "title": "Izaberite svoju ulogu",
+    "description": "Da li ste ovde da iznajmite vilu ili da ugostite druge?",
+    "guestTitle": "Gost",
+    "guestDesc": "Želim da rezervišem vile za moj odmor",
+    "hostTitle": "Domaćin",
+    "hostDesc": "Želim da iznajmim moju vilu",
+    "continue": "Nastavi"
+  },
+  "Villas": {
+    "title": "Pronađite savršenu vilu",
+    "searchPlaceholder": "Pretraži lokacije...",
+    "pricePerNight": "{price} / noć",
+    "bedrooms": "{count} Spavaćih soba",
+    "bathrooms": "{count} Kupatila",
+    "viewDetails": "Pogledaj detalje",
+    "noResults": "Nije pronađena nijedna vila za tu lokaciju."
+  },
+  "VillaDetails": {
+    "bookNow": "Rezerviši sada",
+    "amenities": "Pogodnosti",
+    "about": "O ovoj vili",
+    "location": "Lokacija",
+    "selectDates": "Izaberi datume",
+    "totalPrice": "Ukupna cena",
+    "confirmBooking": "Potvrdi rezervaciju",
+    "bookingSuccess": "Vila je uspešno rezervisana!"
+  },
+  "HostDashboard": {
+    "title": "Vaše Vile",
+    "addVilla": "Dodaj Vilu",
+    "noVillas": "Još niste dodali nijednu vilu.",
+    "createTitle": "Kreiraj novu vilu",
+    "formTitle": "Naziv",
+    "formDescription": "Opis",
+    "formPrice": "Cena po noći (RSD)",
+    "formLocation": "Lokacija",
+    "formBedrooms": "Broj spavaćih soba",
+    "formBathrooms": "Broj kupatila",
+    "formAmenities": "Pogodnosti (odvojene zarezom)",
+    "formImages": "Slike",
+    "uploading": "Otpremanje...",
+    "submit": "Objavi Vilu"
+  },
+  "GuestDashboard": {
+    "title": "Vaše Rezervacije",
+    "noBookings": "Trenutno nemate nijednu rezervaciju.",
+    "statusPending": "Na čekanju",
+    "statusConfirmed": "Potvrđeno",
+    "statusCancelled": "Otkazano",
+    "dates": "Od {start} do {end}",
+    "total": "Ukupno: {price}"
+  }
+}

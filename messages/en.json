@@ -1,0 +1,74 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "villas": "Villas",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "Auth": {
+    "signInTitle": "Welcome Back",
+    "signInDescription": "Choose a sign in method",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithApple": "Continue with Apple",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "signInButton": "Sign In",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up"
+  },
+  "RoleSelection": {
+    "title": "Choose your role",
+    "description": "Are you here to rent a villa or host others?",
+    "guestTitle": "Guest",
+    "guestDesc": "I want to book villas for my vacation",
+    "hostTitle": "Host",
+    "hostDesc": "I want to rent out my villa",
+    "continue": "Continue"
+  },
+  "Villas": {
+    "title": "Find your perfect villa",
+    "searchPlaceholder": "Search locations...",
+    "pricePerNight": "{price} / night",
+    "bedrooms": "{count} Bedrooms",
+    "bathrooms": "{count} Bathrooms",
+    "viewDetails": "View Details",
+    "noResults": "No villas found for that location."
+  },
+  "VillaDetails": {
+    "bookNow": "Book Now",
+    "amenities": "Amenities",
+    "about": "About this villa",
+    "location": "Location",
+    "selectDates": "Select Dates",
+    "totalPrice": "Total Price",
+    "confirmBooking": "Confirm Booking",
+    "bookingSuccess": "Villa successfully booked!"
+  },
+  "HostDashboard": {
+    "title": "Your Villas",
+    "addVilla": "Add Villa",
+    "noVillas": "You haven't added any villas yet.",
+    "createTitle": "Create a new villa",
+    "formTitle": "Title",
+    "formDescription": "Description",
+    "formPrice": "Price per night",
+    "formLocation": "Location",
+    "formBedrooms": "Bedrooms",
+    "formBathrooms": "Bathrooms",
+    "formAmenities": "Amenities (comma separated)",
+    "formImages": "Images",
+    "uploading": "Uploading...",
+    "submit": "Post Villa"
+  },
+  "GuestDashboard": {
+    "title": "Your Bookings",
+    "noBookings": "You have no bookings right now.",
+    "statusPending": "Pending",
+    "statusConfirmed": "Confirmed",
+    "statusCancelled": "Cancelled",
+    "dates": "From {start} to {end}",
+    "total": "Total: {price}"
+  }
+}
